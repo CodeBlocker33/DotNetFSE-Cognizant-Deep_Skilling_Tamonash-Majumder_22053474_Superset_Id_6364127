@@ -1,0 +1,14 @@
+C:\Users\KIIT\Downloads\WebApplication1\MyApp\ds1\design1\bin\Debug\net9.0\design1.exe
+C:\Users\KIIT\Downloads\WebApplication1\MyApp\ds1\design1\bin\Debug\net9.0\design1.deps.json
+C:\Users\KIIT\Downloads\WebApplication1\MyApp\ds1\design1\bin\Debug\net9.0\design1.runtimeconfig.json
+C:\Users\KIIT\Downloads\WebApplication1\MyApp\ds1\design1\bin\Debug\net9.0\design1.dll
+C:\Users\KIIT\Downloads\WebApplication1\MyApp\ds1\design1\bin\Debug\net9.0\design1.pdb
+C:\Users\KIIT\Downloads\WebApplication1\MyApp\ds1\design1\obj\Debug\net9.0\design1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Downloads\WebApplication1\MyApp\ds1\design1\obj\Debug\net9.0\design1.AssemblyInfoInputs.cache
+C:\Users\KIIT\Downloads\WebApplication1\MyApp\ds1\design1\obj\Debug\net9.0\design1.AssemblyInfo.cs
+C:\Users\KIIT\Downloads\WebApplication1\MyApp\ds1\design1\obj\Debug\net9.0\design1.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\WebApplication1\MyApp\ds1\design1\obj\Debug\net9.0\design1.dll
+C:\Users\KIIT\Downloads\WebApplication1\MyApp\ds1\design1\obj\Debug\net9.0\refint\design1.dll
+C:\Users\KIIT\Downloads\WebApplication1\MyApp\ds1\design1\obj\Debug\net9.0\design1.pdb
+C:\Users\KIIT\Downloads\WebApplication1\MyApp\ds1\design1\obj\Debug\net9.0\design1.genruntimeconfig.cache
+C:\Users\KIIT\Downloads\WebApplication1\MyApp\ds1\design1\obj\Debug\net9.0\ref\design1.dll

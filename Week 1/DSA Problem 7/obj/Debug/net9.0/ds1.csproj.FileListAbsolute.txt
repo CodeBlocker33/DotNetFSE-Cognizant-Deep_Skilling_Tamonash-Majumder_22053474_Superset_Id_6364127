@@ -1,0 +1,4 @@
+C:\Users\KIIT\Downloads\WebApplication1\MyApp\ds1\obj\Debug\net9.0\ds1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Downloads\WebApplication1\MyApp\ds1\obj\Debug\net9.0\ds1.AssemblyInfoInputs.cache
+C:\Users\KIIT\Downloads\WebApplication1\MyApp\ds1\obj\Debug\net9.0\ds1.AssemblyInfo.cs
+C:\Users\KIIT\Downloads\WebApplication1\MyApp\ds1\obj\Debug\net9.0\ds1.csproj.CoreCompileInputs.cache
